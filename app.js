@@ -1,1 +1,1 @@
-alert("Hello I am using git")
+alert("Hello I am using git and github")
