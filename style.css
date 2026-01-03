@@ -1,7 +1,15 @@
 h1{
+<<<<<<< HEAD
     color: red;
 }
 
 body{
     background-color: rgb(88, 86, 108);
+=======
+    color: rgb(101, 80, 255);
+}
+
+body{
+    background-color: rgb(112, 111, 116);
+>>>>>>> omar
 }
